@@ -4,8 +4,7 @@ Steps Followed.
 2) ETL.
 3) Data Cleaning.
 4) Data Modeling.
-5) Adding some new columns.
-6) Data Visualization.
+5) Data Visualization.
 
 In the Dashboard, we get the following Insights.
 a) SALES BY COUNTRY for the given Year.
